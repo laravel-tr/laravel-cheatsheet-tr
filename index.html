@@ -336,6 +336,16 @@ Session::reflash();
 Session::keep(array('key1', 'key2'));
 			</pre>
 
+			<h4><a name="redis" href="#redis">Redis</a></h4>
+			<pre class="prettyprint lang-php">
+$redis = Redis::connection(); // Redis'e bağlanma
+$redis->connection('digerSunucu'); // Belirtilen Redis sunucusuna bağlanma
+$redis->set('isim', 'Tuana Şeyma'); // Redis tanımlama
+$redis->get('isim'); // Tanımlanan Redis'i alma
+$redis->lrange('isimler', 5, 10);
+$redis->pipeline(function($pipe){});
+			</pre>
+
 			<h4><a name="requests" href="#requests">İstekler (Requests)</a></h4>
 			<pre class="prettyprint lang-php">Request::path();
 Request::is('foo/*');
