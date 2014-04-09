@@ -1,12 +1,15 @@
-## Laravel Cheat Sheet
+## Laravel Kopya Kağıdı
 
-Finally a cheat sheet for Laravel 4. Keep in mind this is a work in progress and will be fairly dynamic. It will follow the docs closely and I'll try to keep it up to date with new features being added.
+Laravel 4 için oluşturulmuş kopya kağıdı.
 
-**Live Version Here:**
+**İngilizce Canlı Versiyon:**
 
 [Laravel Cheat Sheets](http://cheats.jesse-obrien.ca)
 
+**Türkçe Canlı Versiyon:**
 
-### Contributing
+[Laravel Kopya Kağıdı](#)
 
-If you see a typo or wish to add/change anything, open an issue or pop up a pull request. Thanks!
+### Katkıda Bulunma
+
+Her türlü değişiklik ekleme/çıkarma için pull request yapabilirsiniz. Teşekkürler!
