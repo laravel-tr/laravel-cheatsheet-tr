@@ -2,13 +2,13 @@
 
 Laravel 4 için oluşturulmuş kopya kağıdı.
 
+**Türkçe Canlı Versiyon:**
+
+[Laravel Kopya Kağıdı](http://laravel.gen.tr/cheatsheet/)
+
 **İngilizce Canlı Versiyon:**
 
 [Laravel Cheat Sheets](http://cheats.jesse-obrien.ca)
-
-**Türkçe Canlı Versiyon:**
-
-[Laravel Kopya Kağıdı](#)
 
 ### Katkıda Bulunma
 
